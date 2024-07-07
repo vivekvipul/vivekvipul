@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vivekvipul
+- 👋 Hi, I’m Vipul
 - :man_technologist: I'm a SDE-3 (UI/FrontEnd) @JuniperNetworks
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React, Webpack
